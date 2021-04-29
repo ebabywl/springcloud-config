@@ -1,3 +1,3 @@
-config
-   ssss version=1
+config:
+   info: ssss version=1
    
